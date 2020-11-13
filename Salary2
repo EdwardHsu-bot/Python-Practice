@@ -1,0 +1,8 @@
+sh = input('Enter Hours: ')
+sr = input('Enter Rates: ')
+try:
+    fh = float(sh)
+    fr = float(sr)
+except:
+    print('Error, please enter numeric input')
+    quit()
