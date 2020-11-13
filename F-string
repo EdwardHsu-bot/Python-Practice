@@ -1,0 +1,7 @@
+## f-string
+
+name = "Edward"
+country = "China"
+age = 25
+
+print(f"Hi, I'm {name}. I'm form {country}. And I'm {age}.")
